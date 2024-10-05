@@ -32,7 +32,7 @@ class Chatbox {
             </div>
         </div>
         <div class="chatbox__button">
-            <button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button>
+            <button><img src="https://img.icons8.com/?size=100&id=16027&format=png&color=000000" /></button>
         </div>
     </div>
 </div>`
